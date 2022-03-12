@@ -1,0 +1,73 @@
+body{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: #283151;
+    direction: rtl;
+}
+.comment{
+    height: 1000px;
+    background-color: white;
+    margin: 60px 0 60px 0;
+    border-radius: 40px;
+    text-align: center;
+}
+.profile{
+    width: 115px;
+    margin: 30px;
+}
+.h3{
+    text-align: right;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 20px 40px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #ff8833;
+    width: 170px;
+    border-radius: 20px;
+}
+.p{
+    text-align: right;
+    margin: 0 40px;
+    font-size: 15px;
+}
+.area1{
+    display: block;
+    width: 80%;
+    margin: 40px auto;
+    border: 1px solid rgba(0,0,0,0.1);
+    color: #2c2f34;
+    font-size: 13px;
+    resize: none;
+    /* border: 1px solid #ff8833; */
+    border: 1px solid #283151;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 1px #283151;
+}
+.avatar{
+    padding: 20px 0 0 0;
+    color: #ff8833;
+}
+input{
+    margin: 20px 0;
+    text-align: center;
+    border: 1px solid #283151;
+    padding: 7px;
+    border-radius: 15px;
+    box-shadow: 0px 0.5px 0.5px 0.5px;
+    width: 60%;
+    height: 50px;
+}
+.but1{
+    margin: 25px 0;
+    background-color: #283151;
+    color: white;
+    width: 20%;
+    padding: 7px;
+    border: 1px solid #283151 ;
+    border-radius: 10px;
+}
